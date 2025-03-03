@@ -3,6 +3,8 @@
 ## Overview
 The AI-powered interview agent automates and streamlines the recruitment process using OpenAI's GPT-4 and machine learning. It conducts dynamic, natural interviews with candidates, improving efficiency, reducing bias, and enhancing the overall hiring experience.
 
+demo link : https://drive.google.com/file/d/16yhQh0MnI5HqijxYcKRga34bWcfXrTmf/view?usp=drive_link
+
 ## Features
 - **Automated Interviews**: Conducts voice-based candidate assessments.
 - **Dynamic Questioning**: Generates relevant follow-up questions in real-time.
